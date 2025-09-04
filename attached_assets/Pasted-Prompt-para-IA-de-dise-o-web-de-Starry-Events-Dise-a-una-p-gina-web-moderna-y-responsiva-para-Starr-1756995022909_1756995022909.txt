@@ -1,0 +1,97 @@
+Prompt para IA de diseño web de Starry Events
+
+Diseña una página web moderna y responsiva para Starry Events, la plataforma oficial de un servidor de Discord en la que se organizan eventos de Roblox con premios en Robux.
+
+Autenticación
+
+El acceso a la página debe hacerse exclusivamente con la cuenta de Discord mediante OAuth2 (sin necesidad de contraseñas).
+
+La autorización debe permitir obtener el nombre de usuario y avatar de Discord para mostrarlo en la interfaz.
+
+Una vez autenticado, el usuario debe ver su nombre y avatar en la esquina superior derecha, con un pequeño menú desplegable (logout, perfil, configuración).
+
+Diseño general
+
+Estética moderna y gamer, con toques galácticos/espaciales (colores oscuros, estrellas, gradientes azules y violetas).
+
+Layout centralizado y limpio, con tipografía sans-serif moderna.
+
+Animaciones suaves con hover y transiciones para dar dinamismo.
+
+Modo claro/oscuro con toggle en la barra superior.
+
+Secciones principales
+
+Navbar fija superior
+
+Logo de Starry Events.
+
+Menú con: Eventos, Ranking, FAQ, Soporte.
+
+Botón de Conectar con Discord.
+
+Hero section
+
+Gran banner con título: “Vive los mejores eventos de Roblox”.
+
+Subtítulo: “Participa en competiciones, gana Robux y conecta con la comunidad”.
+
+Botón CTA: Unirse al servidor de Discord.
+
+Fondo dinámico con partículas estelares animadas.
+
+Eventos en curso (Ongoing Events)
+
+Cards redondeadas, semijuntas en formato grid.
+
+Al hacer hover, la card se expande, pasa al frente y queda destacada en el centro.
+
+Cada card incluye:
+
+Banner del evento.
+
+Nombre del evento.
+
+Recompensa en Robux.
+
+Contador en vivo de tiempo restante.
+
+Botón destacado Ir al juego.
+
+Eventos programados (Scheduled Events)
+
+Lista debajo de los ongoing, en formato cards más pequeñas.
+
+Muestran fecha, hora, premio y un botón para añadir al calendario (Google/Outlook).
+
+Ranking de jugadores
+
+Tabla dinámica con los jugadores más participativos o ganadores de Robux.
+
+Incluye avatar, nombre de usuario (Discord/Roblox), puntos acumulados y posición.
+
+FAQ
+
+Acordeón con preguntas frecuentes (ej: “¿Cómo participo?”, “¿Cómo reclamo mi premio?”, etc.).
+
+Soporte
+
+Sección con link directo al canal de soporte de Discord.
+
+Formulario rápido de contacto opcional.
+
+Footer
+
+Links a redes sociales, servidor de Discord, términos y condiciones, privacidad.
+
+Copyright © Starry Events.
+
+Extras
+
+Notificaciones in-page (ej: “¡El evento X comienza en 5 minutos!”).
+
+Animación de Robux flotando o estrellas fugaces en segundo plano.
+
+SEO friendly y adaptada a móviles.
+
+Opcional: Panel de administración oculto para el staff (crear/editar/borrar eventos).
