@@ -12,6 +12,7 @@ import Home from "@/pages/home";
 function Router() {
   const { isAuthenticated, isLoading } = useAuth();
 
+  // Only show loading for a very brief moment on initial load
   if (isLoading) {
     return (
       <div className="min-h-screen flex items-center justify-center space-bg">
